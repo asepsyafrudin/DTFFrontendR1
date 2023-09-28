@@ -1,0 +1,25 @@
+.cover-content {
+ border-radius: 12px;
+ border-color: #020025;
+ margin-top: 10px;
+ margin-left: 10px;
+ margin-right: 10px;
+ margin-bottom: 20px;
+background-color: #fff;
+}
+
+.title-content {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 35%,
+      rgba(0, 212, 255, 1) 100%
+    );
+    color: #fff;
+    font-size: 18px;
+    text-align: left;
+    padding: 5px 15px;
+    border-radius: 12px;
+    font-weight: bold;
+}
